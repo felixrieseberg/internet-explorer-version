@@ -1,0 +1,23 @@
+{
+  "name": "internet-explorer-version",
+  "version": "1.0.0",
+  "description": "Find the installed version of IE",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixrieseberg/internet-explorer-version.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Internet",
+    "Explorer",
+    "IE"
+  ],
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
